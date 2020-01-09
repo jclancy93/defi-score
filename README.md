@@ -25,7 +25,7 @@ We've provided a few example scores with a breakdown of each component. Although
 Want to run the numbers yourself? Check out the [implementation instructions](implementation).
 
 ## Components
-The DeFi Score methodology can be organized into Smart Contract Risk, Financial Risk, and Other Considerations.
+The DeFi Score methodology can be organized into Smart Contract Risk, Financial Risk, and Other Considerations.  
 
 <img src="assets/images/defiscore-components.png" alt="DeFi Score Banner Components">
 
